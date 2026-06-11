@@ -19,8 +19,7 @@ To ensure the integrity of the published files, verify the cryptographic hashes 
 
 | File Name | Archive Size | SHA-256 Checksum |
 | :--- | :--- | :--- |
-| `Ardenix_Backup_MBlock_2026.zip` | 185.4 MB | `e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855` |
-| `manifest_hashes.txt` | 4.2 KB | `8f438902ca1149afbf4c8996fb92427ae41e4649b934ca495991b7852b8991` |
+| `Ardenix_Backup_MBlock_2026.zip` | 6.8 MB | `e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855` |
 
 > ⚠️ **Security Notice for Researchers:** The compressed backup contains raw database exports (`.sql`) and internal financial operational ledgers (`.csv`). While our editorial team has stripped active primary authentication vectors (plain-text master passwords), secondary hashes remain intact. Handle within isolated sandbox environments only.
 
