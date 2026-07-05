@@ -1,4 +1,4 @@
-# CyberSecurity Today — Investigative Journalism Data Archive
+# CyberSecurity Today — Investigative Journalism Data Archive (EXERCISE FOR A UNIVERSITY PROJECT! THE REPOSITORY ONLY CONTAINS DUMMY DATA)
 
 Welcome to the official data transparency and public interest archive for **CyberSecurity Today Magazine**. 
 
