@@ -1,5 +1,7 @@
-# CyberSecurity Today — Investigative Journalism Data Archive (EXERCISE FOR A UNIVERSITY PROJECT! THE REPOSITORY ONLY CONTAINS DUMMY DATA)
+# CyberSecurity Today — Investigative Journalism Data Archive (EXERCISE)
 
+
+FOR A UNIVERSITY PROJECT! THE REPOSITORY ONLY CONTAINS DUMMY DATA
 Welcome to the official data transparency and public interest archive for **CyberSecurity Today Magazine**. 
 
 This repository serves as a centralized, secure repository for datasets, indicators of compromise (IoCs), and verified documentation stemming from our independent, investigative reporting. In alignment with the principles of data journalism and public interest disclosure, we publish sanitized subsets of data to foster digital accountability and allow security researchers to analyze ongoing systemic threats.
